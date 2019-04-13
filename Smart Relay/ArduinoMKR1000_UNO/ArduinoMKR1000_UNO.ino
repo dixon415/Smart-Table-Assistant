@@ -43,7 +43,7 @@ void setup() {
   thing.add_wifi(SECRET_SSID, SECRET_PASS);
 
   /*The relay state is obtained as an input resource (integer/ number) from thinger.io*/
-  thing["Test"] << [](pson& in){
+  thing["Relay"] << [](pson& in){
       relayState = in["state"];
       changeRelayState();
   };
