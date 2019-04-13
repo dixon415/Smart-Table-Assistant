@@ -10,7 +10,7 @@
  * Project: Smart Table Assitant
  * Website: 
  * 
- * Hardware components Required (Main Unit)
+ * Hardware components Required
  * ----------------------------------------
  * 1. Arduino UNO board
  * 2. Four Channel Relay Module
