@@ -1,5 +1,5 @@
-/* This is the code for the 'Smart Relay' part of the 'Smart Table Assistant project' built for the 'Smart Homes on the Edge' contest conducted by 
- *  Hackster.io and sponsored by Seeed and Snips.
+/* This is the code for Arduino MKR1000 used in the 'Smart Relay' part of the 'Smart Table Assistant project' built for the 
+ *  'Smart Homes on the Edge' contest conducted by Hackster.io and sponsored by Seeed and Snips.
  * 
  * Contest Page - https://www.hackster.io/contests/building-for-voice
  * 
